@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function LoginInput() {
     return (
-        <div className="opacity-90 w-screen  xs:w-3/4 sm:w-2/3 md:w-1/2 lg:w-[400px] absolute -translate-x-1/2  -translate-y-1/2 top-1/2 left-1/2" >
-            <form className="bg-blue-50 shadow-md rounded px-8 py-20 ">
+        <div className=" w-screen  xs:w-3/4 sm:w-2/3 md:w-1/2 lg:w-[400px] absolute -translate-x-1/2  -translate-y-1/2 top-1/2 left-1/2" >
+            <form className="bg-blue-50 bg-opacity-50 shadow-md rounded px-8 py-20 ">
                 <div className="mb-4">
                     <label className="block text-gray-900 text-sm font-bold mb-2" htmlFor="username ">
                         Username
